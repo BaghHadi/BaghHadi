@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadi&label=Profile%20views&color=0e75b6&style=flat" alt="hadi" /> </p>
 
-- 🔭 I’m currently working on **Rekebni**
-
-- 👯 I’m looking to collaborate on **Wijhati**
+- 🔭 I’m currently working on **many projects**
 
 - 📫 How to reach me **baghdadli.abdelhadi@gmail.com**
 
