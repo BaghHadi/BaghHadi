@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hadi</h1>
-<h3 align="center">A passionate fullstack developer from Algeria</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 
 <p>I'm a full-stack developer with experience in NodeJs, Mongodb, and express. Currently, I'm learning cybersecurity and  some Ai.</p>
 
